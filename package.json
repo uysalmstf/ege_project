@@ -1,0 +1,22 @@
+{
+  "name": "egegen",
+  "version": "1.0.0",
+  "description": "What is CodeIgniter ###################",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uysalmstf/egegen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uysalmstf/egegen/issues"
+  },
+  "homepage": "https://github.com/uysalmstf/egegen#readme",
+  "dependencies": {
+    "sweetalert2": "^11.6.0"
+  }
+}

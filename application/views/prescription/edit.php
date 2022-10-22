@@ -4,7 +4,7 @@
 			<div class="card">
 				<div class="card-header">
 					Prescription Detail
-					<a class="btn btn-info" href="<?=base_url()?>product/index"> Go Back</a>
+					<a class="btn btn-info" href="<?=base_url()?>prescription/index"> Go Back</a>
 				</div>
 				<div class="card-body">
 					<form class="form" method="post" action="<?=base_url()?>prescription/update">
